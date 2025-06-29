@@ -1,0 +1,1621 @@
+[
+  { "location": "Tokyo, Japan", "latitude": 35.6762, "longitude": 139.6503 },
+  {
+    "location": "New York City, USA",
+    "latitude": 40.7128,
+    "longitude": -74.006
+  },
+  { "location": "London, UK", "latitude": 51.5074, "longitude": -0.1278 },
+  { "location": "Paris, France", "latitude": 48.8566, "longitude": 2.3522 },
+  { "location": "Beijing, China", "latitude": 39.9042, "longitude": 116.4074 },
+  {
+    "location": "Sydney, Australia",
+    "latitude": -33.8688,
+    "longitude": 151.2093
+  },
+  {
+    "location": "Rio de Janeiro, Brazil",
+    "latitude": -22.9068,
+    "longitude": -43.1729
+  },
+  { "location": "Cairo, Egypt", "latitude": 30.0444, "longitude": 31.2357 },
+  { "location": "Moscow, Russia", "latitude": 55.7558, "longitude": 37.6173 },
+  { "location": "Mumbai, India", "latitude": 19.076, "longitude": 72.8777 },
+  {
+    "location": "Los Angeles, USA",
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  { "location": "Berlin, Germany", "latitude": 52.52, "longitude": 13.405 },
+  {
+    "location": "Mexico City, Mexico",
+    "latitude": 19.4326,
+    "longitude": -99.1332
+  },
+  {
+    "location": "Singapore, Singapore",
+    "latitude": 1.3521,
+    "longitude": 103.8198
+  },
+  { "location": "Dubai, UAE", "latitude": 25.2048, "longitude": 55.2708 },
+  { "location": "Toronto, Canada", "latitude": 43.6511, "longitude": -79.347 },
+  {
+    "location": "Bangkok, Thailand",
+    "latitude": 13.7563,
+    "longitude": 100.5018
+  },
+  { "location": "Rome, Italy", "latitude": 41.9028, "longitude": 12.4964 },
+  {
+    "location": "Seoul, South Korea",
+    "latitude": 37.5665,
+    "longitude": 126.978
+  },
+  {
+    "location": "Johannesburg, South Africa",
+    "latitude": -26.2041,
+    "longitude": 28.0473
+  },
+  { "location": "Istanbul, Turkey", "latitude": 41.0082, "longitude": 28.9784 },
+  { "location": "Madrid, Spain", "latitude": 40.4168, "longitude": -3.7038 },
+  {
+    "location": "Buenos Aires, Argentina",
+    "latitude": -34.6037,
+    "longitude": -58.3816
+  },
+  { "location": "Vienna, Austria", "latitude": 48.2082, "longitude": 16.3738 },
+  {
+    "location": "Stockholm, Sweden",
+    "latitude": 59.3293,
+    "longitude": 18.0686
+  },
+  {
+    "location": "Amsterdam, Netherlands",
+    "latitude": 52.3676,
+    "longitude": 4.9041
+  },
+  { "location": "Lisbon, Portugal", "latitude": 38.7223, "longitude": -9.1393 },
+  {
+    "location": "Copenhagen, Denmark",
+    "latitude": 55.6761,
+    "longitude": 12.5683
+  },
+  { "location": "Dublin, Ireland", "latitude": 53.3498, "longitude": -6.2603 },
+  { "location": "Athens, Greece", "latitude": 37.9838, "longitude": 23.7275 },
+  { "location": "Warsaw, Poland", "latitude": 52.2297, "longitude": 21.0122 },
+  {
+    "location": "Prague, Czech Republic",
+    "latitude": 50.0755,
+    "longitude": 14.4378
+  },
+  {
+    "location": "Budapest, Hungary",
+    "latitude": 47.4979,
+    "longitude": 19.0402
+  },
+  {
+    "location": "Helsinki, Finland",
+    "latitude": 60.1699,
+    "longitude": 24.9384
+  },
+  { "location": "Oslo, Norway", "latitude": 59.9139, "longitude": 10.7522 },
+  { "location": "Brussels, Belgium", "latitude": 50.8503, "longitude": 4.3517 },
+  {
+    "location": "Jakarta, Indonesia",
+    "latitude": -6.2088,
+    "longitude": 106.8456
+  },
+  {
+    "location": "Manila, Philippines",
+    "latitude": 14.5995,
+    "longitude": 120.9842
+  },
+  {
+    "location": "Kuala Lumpur, Malaysia",
+    "latitude": 3.139,
+    "longitude": 101.6869
+  },
+  {
+    "location": "Auckland, New Zealand",
+    "latitude": -36.8485,
+    "longitude": 174.7633
+  },
+  {
+    "location": "Santiago, Chile",
+    "latitude": -33.4489,
+    "longitude": -70.6693
+  },
+  { "location": "Lima, Peru", "latitude": -12.0464, "longitude": -77.0428 },
+  { "location": "Nairobi, Kenya", "latitude": -1.2921, "longitude": 36.8219 },
+  { "location": "Lagos, Nigeria", "latitude": 6.5244, "longitude": 3.3792 },
+  {
+    "location": "Casablanca, Morocco",
+    "latitude": 33.5731,
+    "longitude": -7.5898
+  },
+  { "location": "Tel Aviv, Israel", "latitude": 32.0853, "longitude": 34.7818 },
+  {
+    "location": "Riyadh, Saudi Arabia",
+    "latitude": 24.7136,
+    "longitude": 46.6753
+  },
+  { "location": "Doha, Qatar", "latitude": 25.2854, "longitude": 51.531 },
+  {
+    "location": "Cape Town, South Africa",
+    "latitude": -33.9249,
+    "longitude": 18.4241
+  },
+  { "location": "Bogotá, Colombia", "latitude": 4.711, "longitude": -74.0721 },
+  {
+    "location": "San Francisco, USA",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  { "location": "Chicago, USA", "latitude": 41.8781, "longitude": -87.6298 },
+  { "location": "Miami, USA", "latitude": 25.7617, "longitude": -80.1918 },
+  {
+    "location": "Vancouver, Canada",
+    "latitude": 49.2827,
+    "longitude": -123.1207
+  },
+  {
+    "location": "Montreal, Canada",
+    "latitude": 45.5017,
+    "longitude": -73.5673
+  },
+  { "location": "Havana, Cuba", "latitude": 23.1136, "longitude": -82.3666 },
+  {
+    "location": "Panama City, Panama",
+    "latitude": 8.9936,
+    "longitude": -79.5197
+  },
+  {
+    "location": "San José, Costa Rica",
+    "latitude": 9.9281,
+    "longitude": -84.0907
+  },
+  {
+    "location": "Caracas, Venezuela",
+    "latitude": 10.4806,
+    "longitude": -66.9036
+  },
+  {
+    "location": "Montevideo, Uruguay",
+    "latitude": -34.9011,
+    "longitude": -56.1645
+  },
+  {
+    "location": "Asunción, Paraguay",
+    "latitude": -25.2637,
+    "longitude": -57.5759
+  },
+  {
+    "location": "La Paz, Bolivia",
+    "latitude": -16.4897,
+    "longitude": -68.1193
+  },
+  { "location": "Quito, Ecuador", "latitude": -0.1807, "longitude": -78.4678 },
+  {
+    "location": "Guatemala City, Guatemala",
+    "latitude": 14.6349,
+    "longitude": -90.5069
+  },
+  {
+    "location": "San Salvador, El Salvador",
+    "latitude": 13.6894,
+    "longitude": -89.1872
+  },
+  {
+    "location": "Tegucigalpa, Honduras",
+    "latitude": 14.0723,
+    "longitude": -87.1921
+  },
+  {
+    "location": "Managua, Nicaragua",
+    "latitude": 12.1149,
+    "longitude": -86.2362
+  },
+  {
+    "location": "Santo Domingo, Dominican Republic",
+    "latitude": 18.4861,
+    "longitude": -69.9312
+  },
+  {
+    "location": "Port-au-Prince, Haiti",
+    "latitude": 18.5944,
+    "longitude": -72.3074
+  },
+  {
+    "location": "Kingston, Jamaica",
+    "latitude": 18.0179,
+    "longitude": -76.8099
+  },
+  { "location": "Nassau, Bahamas", "latitude": 25.0343, "longitude": -77.3963 },
+  {
+    "location": "Bridgetown, Barbados",
+    "latitude": 13.1132,
+    "longitude": -59.5988
+  },
+  {
+    "location": "Georgetown, Guyana",
+    "latitude": 6.8013,
+    "longitude": -58.1551
+  },
+  {
+    "location": "Paramaribo, Suriname",
+    "latitude": 5.852,
+    "longitude": -55.2038
+  },
+  {
+    "location": "Reykjavik, Iceland",
+    "latitude": 64.1466,
+    "longitude": -21.9426
+  },
+  {
+    "location": "Zurich, Switzerland",
+    "latitude": 47.3769,
+    "longitude": 8.5417
+  },
+  {
+    "location": "Luxembourg City, Luxembourg",
+    "latitude": 49.6116,
+    "longitude": 6.1319
+  },
+  {
+    "location": "Ljubljana, Slovenia",
+    "latitude": 46.0569,
+    "longitude": 14.5058
+  },
+  {
+    "location": "Bratislava, Slovakia",
+    "latitude": 48.1486,
+    "longitude": 17.1077
+  },
+  {
+    "location": "Vilnius, Lithuania",
+    "latitude": 54.6872,
+    "longitude": 25.2797
+  },
+  { "location": "Riga, Latvia", "latitude": 56.9496, "longitude": 24.1052 },
+  { "location": "Tallinn, Estonia", "latitude": 59.437, "longitude": 24.7536 },
+  { "location": "Minsk, Belarus", "latitude": 53.9045, "longitude": 27.5615 },
+  { "location": "Kiev, Ukraine", "latitude": 50.4501, "longitude": 30.5234 },
+  {
+    "location": "Chisinau, Moldova",
+    "latitude": 47.0105,
+    "longitude": 28.8638
+  },
+  {
+    "location": "Bucharest, Romania",
+    "latitude": 44.4268,
+    "longitude": 26.1025
+  },
+  { "location": "Sofia, Bulgaria", "latitude": 42.6977, "longitude": 23.3219 },
+  { "location": "Belgrade, Serbia", "latitude": 44.7866, "longitude": 20.4489 },
+  { "location": "Zagreb, Croatia", "latitude": 45.815, "longitude": 15.9819 },
+  {
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "latitude": 43.8563,
+    "longitude": 18.4131
+  },
+  { "location": "Tirana, Albania", "latitude": 41.3275, "longitude": 19.8187 },
+  {
+    "location": "Skopje, North Macedonia",
+    "latitude": 41.9981,
+    "longitude": 21.4254
+  },
+  {
+    "location": "Podgorica, Montenegro",
+    "latitude": 42.4304,
+    "longitude": 19.2594
+  },
+  { "location": "Valletta, Malta", "latitude": 35.8989, "longitude": 14.5146 },
+  { "location": "Nicosia, Cyprus", "latitude": 35.1856, "longitude": 33.3823 },
+  { "location": "Yerevan, Armenia", "latitude": 40.1792, "longitude": 44.4991 },
+  { "location": "Tbilisi, Georgia", "latitude": 41.7151, "longitude": 44.8271 },
+  { "location": "Baku, Azerbaijan", "latitude": 40.4093, "longitude": 49.8671 },
+  {
+    "location": "Ashgabat, Turkmenistan",
+    "latitude": 37.9601,
+    "longitude": 58.3269
+  },
+  {
+    "location": "Tashkent, Uzbekistan",
+    "latitude": 41.2995,
+    "longitude": 69.2401
+  },
+  {
+    "location": "Bishkek, Kyrgyzstan",
+    "latitude": 42.8746,
+    "longitude": 74.5698
+  },
+  {
+    "location": "Dushanbe, Tajikistan",
+    "latitude": 38.5737,
+    "longitude": 68.7738
+  },
+  {
+    "location": "Astana, Kazakhstan",
+    "latitude": 51.1605,
+    "longitude": 71.4704
+  },
+  {
+    "location": "Ulaanbaatar, Mongolia",
+    "latitude": 47.8864,
+    "longitude": 106.9057
+  },
+  {
+    "location": "Pyongyang, North Korea",
+    "latitude": 39.0392,
+    "longitude": 125.7625
+  },
+  { "location": "Hanoi, Vietnam", "latitude": 21.0285, "longitude": 105.8542 },
+  { "location": "Vientiane, Laos", "latitude": 17.9757, "longitude": 102.6331 },
+  {
+    "location": "Phnom Penh, Cambodia",
+    "latitude": 11.5564,
+    "longitude": 104.9282
+  },
+  { "location": "Yangon, Myanmar", "latitude": 16.8661, "longitude": 96.1951 },
+  {
+    "location": "Dhaka, Bangladesh",
+    "latitude": 23.8103,
+    "longitude": 90.4125
+  },
+  { "location": "Kathmandu, Nepal", "latitude": 27.7172, "longitude": 85.324 },
+  { "location": "Thimphu, Bhutan", "latitude": 27.4728, "longitude": 89.6393 },
+  {
+    "location": "Colombo, Sri Lanka",
+    "latitude": 6.9271,
+    "longitude": 79.8612
+  },
+  { "location": "Malé, Maldives", "latitude": 4.1755, "longitude": 73.5093 },
+  {
+    "location": "Islamabad, Pakistan",
+    "latitude": 33.6844,
+    "longitude": 73.0479
+  },
+  {
+    "location": "Kabul, Afghanistan",
+    "latitude": 34.5553,
+    "longitude": 69.2075
+  },
+  { "location": "Tehran, Iran", "latitude": 35.6892, "longitude": 51.389 },
+  { "location": "Baghdad, Iraq", "latitude": 33.3152, "longitude": 44.3661 },
+  { "location": "Damascus, Syria", "latitude": 33.5138, "longitude": 36.2765 },
+  { "location": "Amman, Jordan", "latitude": 31.9454, "longitude": 35.9284 },
+  { "location": "Beirut, Lebanon", "latitude": 33.8938, "longitude": 35.5018 },
+  {
+    "location": "Jerusalem, Israel",
+    "latitude": 31.7683,
+    "longitude": 35.2137
+  },
+  {
+    "location": "Kuwait City, Kuwait",
+    "latitude": 29.3759,
+    "longitude": 47.9774
+  },
+  { "location": "Manama, Bahrain", "latitude": 26.2285, "longitude": 50.586 },
+  { "location": "Abu Dhabi, UAE", "latitude": 24.4539, "longitude": 54.3773 },
+  { "location": "Muscat, Oman", "latitude": 23.588, "longitude": 58.3829 },
+  { "location": "Sanaa, Yemen", "latitude": 15.3694, "longitude": 44.191 },
+  {
+    "location": "Addis Ababa, Ethiopia",
+    "latitude": 9.032,
+    "longitude": 38.7469
+  },
+  {
+    "location": "Djibouti, Djibouti",
+    "latitude": 11.8251,
+    "longitude": 42.5903
+  },
+  { "location": "Asmara, Eritrea", "latitude": 15.3229, "longitude": 38.9251 },
+  {
+    "location": "Mogadishu, Somalia",
+    "latitude": 2.0469,
+    "longitude": 45.3182
+  },
+  { "location": "Kampala, Uganda", "latitude": -0.3476, "longitude": 32.5825 },
+  { "location": "Kigali, Rwanda", "latitude": -1.9706, "longitude": 30.1044 },
+  {
+    "location": "Bujumbura, Burundi",
+    "latitude": -3.3822,
+    "longitude": 29.3644
+  },
+  {
+    "location": "Dar es Salaam, Tanzania",
+    "latitude": -6.7924,
+    "longitude": 39.2083
+  },
+  { "location": "Lusaka, Zambia", "latitude": -15.3875, "longitude": 28.3228 },
+  {
+    "location": "Harare, Zimbabwe",
+    "latitude": -17.8252,
+    "longitude": 31.0335
+  },
+  {
+    "location": "Gaborone, Botswana",
+    "latitude": -24.6282,
+    "longitude": 25.9231
+  },
+  {
+    "location": "Windhoek, Namibia",
+    "latitude": -22.5609,
+    "longitude": 17.0658
+  },
+  {
+    "location": "Maputo, Mozambique",
+    "latitude": -25.9692,
+    "longitude": 32.5732
+  },
+  {
+    "location": "Pretoria, South Africa",
+    "latitude": -25.7461,
+    "longitude": 28.1881
+  },
+  {
+    "location": "Mbabane, Eswatini",
+    "latitude": -26.3054,
+    "longitude": 31.1367
+  },
+  { "location": "Maseru, Lesotho", "latitude": -29.3142, "longitude": 27.4833 },
+  {
+    "location": "Antananarivo, Madagascar",
+    "latitude": -18.8792,
+    "longitude": 47.5079
+  },
+  {
+    "location": "Port Louis, Mauritius",
+    "latitude": -20.1609,
+    "longitude": 57.5012
+  },
+  {
+    "location": "Victoria, Seychelles",
+    "latitude": -4.6191,
+    "longitude": 55.4513
+  },
+  { "location": "Moroni, Comoros", "latitude": -11.7172, "longitude": 43.2473 },
+  {
+    "location": "Lilongwe, Malawi",
+    "latitude": -13.9626,
+    "longitude": 33.7741
+  },
+  { "location": "Luanda, Angola", "latitude": -8.8147, "longitude": 13.2302 },
+  {
+    "location": "Kinshasa, DR Congo",
+    "latitude": -4.4419,
+    "longitude": 15.2663
+  },
+  {
+    "location": "Brazzaville, Republic of the Congo",
+    "latitude": -4.2634,
+    "longitude": 15.2429
+  },
+  { "location": "Libreville, Gabon", "latitude": 0.4162, "longitude": 9.4673 },
+  {
+    "location": "São Tomé, São Tomé and Príncipe",
+    "latitude": 0.3301,
+    "longitude": 6.7273
+  },
+  {
+    "location": "Malabo, Equatorial Guinea",
+    "latitude": 3.7523,
+    "longitude": 8.7742
+  },
+  { "location": "Yaoundé, Cameroon", "latitude": 3.848, "longitude": 11.5021 },
+  { "location": "N'Djamena, Chad", "latitude": 12.1348, "longitude": 15.0557 },
+  {
+    "location": "Bangui, Central African Republic",
+    "latitude": 4.3947,
+    "longitude": 18.5582
+  },
+  { "location": "Juba, South Sudan", "latitude": 4.8594, "longitude": 31.5713 },
+  { "location": "Khartoum, Sudan", "latitude": 15.5007, "longitude": 32.5599 },
+  { "location": "Tripoli, Libya", "latitude": 32.8872, "longitude": 13.1913 },
+  { "location": "Tunis, Tunisia", "latitude": 36.8065, "longitude": 10.1815 },
+  { "location": "Algiers, Algeria", "latitude": 36.7538, "longitude": 3.0588 },
+  { "location": "Rabat, Morocco", "latitude": 33.9716, "longitude": -6.8498 },
+  {
+    "location": "Nouakchott, Mauritania",
+    "latitude": 18.0735,
+    "longitude": -15.9582
+  },
+  { "location": "Dakar, Senegal", "latitude": 14.7167, "longitude": -17.4677 },
+  { "location": "Banjul, Gambia", "latitude": 13.4549, "longitude": -16.579 },
+  {
+    "location": "Bissau, Guinea-Bissau",
+    "latitude": 11.8816,
+    "longitude": -15.6178
+  },
+  { "location": "Conakry, Guinea", "latitude": 9.6412, "longitude": -13.5784 },
+  {
+    "location": "Freetown, Sierra Leone",
+    "latitude": 8.4657,
+    "longitude": -13.2317
+  },
+  {
+    "location": "Monrovia, Liberia",
+    "latitude": 6.3004,
+    "longitude": -10.7969
+  },
+  {
+    "location": "Yamoussoukro, Ivory Coast",
+    "latitude": 6.8276,
+    "longitude": -5.2893
+  },
+  { "location": "Accra, Ghana", "latitude": 5.6037, "longitude": -0.187 },
+  { "location": "Lomé, Togo", "latitude": 6.1285, "longitude": 1.2255 },
+  { "location": "Porto-Novo, Benin", "latitude": 6.4969, "longitude": 2.6283 },
+  { "location": "Abuja, Nigeria", "latitude": 9.0765, "longitude": 7.3986 },
+  { "location": "Niamey, Niger", "latitude": 13.5117, "longitude": 2.1251 },
+  {
+    "location": "Ouagadougou, Burkina Faso",
+    "latitude": 12.3714,
+    "longitude": -1.5197
+  },
+  { "location": "Bamako, Mali", "latitude": 12.6392, "longitude": -8.0029 },
+  { "location": "Honolulu, USA", "latitude": 21.3069, "longitude": -157.8583 },
+  { "location": "Anchorage, USA", "latitude": 61.2181, "longitude": -149.9003 },
+  { "location": "Seattle, USA", "latitude": 47.6062, "longitude": -122.3321 },
+  { "location": "Portland, USA", "latitude": 45.5051, "longitude": -122.675 },
+  { "location": "Denver, USA", "latitude": 39.7392, "longitude": -104.9903 },
+  { "location": "Dallas, USA", "latitude": 32.7767, "longitude": -96.797 },
+  { "location": "Houston, USA", "latitude": 29.7604, "longitude": -95.3698 },
+  { "location": "Phoenix, USA", "latitude": 33.4484, "longitude": -112.074 },
+  { "location": "Las Vegas, USA", "latitude": 36.1699, "longitude": -115.1398 },
+  { "location": "San Diego, USA", "latitude": 32.7157, "longitude": -117.1611 },
+  { "location": "Minneapolis, USA", "latitude": 44.9778, "longitude": -93.265 },
+  { "location": "St. Louis, USA", "latitude": 38.627, "longitude": -90.1994 },
+  {
+    "location": "New Orleans, USA",
+    "latitude": 29.9511,
+    "longitude": -90.0715
+  },
+  { "location": "Atlanta, USA", "latitude": 33.749, "longitude": -84.388 },
+  { "location": "Tampa, USA", "latitude": 27.9506, "longitude": -82.4572 },
+  { "location": "Orlando, USA", "latitude": 28.5383, "longitude": -81.3792 },
+  { "location": "Boston, USA", "latitude": 42.3601, "longitude": -71.0589 },
+  {
+    "location": "Philadelphia, USA",
+    "latitude": 39.9526,
+    "longitude": -75.1652
+  },
+  {
+    "location": "Washington DC, USA",
+    "latitude": 38.9072,
+    "longitude": -77.0369
+  },
+  { "location": "Detroit, USA", "latitude": 42.3314, "longitude": -83.0458 },
+  {
+    "location": "Calgary, Canada",
+    "latitude": 51.0447,
+    "longitude": -114.0719
+  },
+  {
+    "location": "Edmonton, Canada",
+    "latitude": 53.5461,
+    "longitude": -113.4938
+  },
+  {
+    "location": "Winnipeg, Canada",
+    "latitude": 49.8951,
+    "longitude": -97.1384
+  },
+  {
+    "location": "Quebec City, Canada",
+    "latitude": 46.8139,
+    "longitude": -71.208
+  },
+  { "location": "Halifax, Canada", "latitude": 44.6488, "longitude": -63.5752 },
+  {
+    "location": "St. John's, Canada",
+    "latitude": 47.5615,
+    "longitude": -52.7126
+  },
+  {
+    "location": "Guadalajara, Mexico",
+    "latitude": 20.6597,
+    "longitude": -103.3496
+  },
+  {
+    "location": "Monterrey, Mexico",
+    "latitude": 25.6866,
+    "longitude": -100.3161
+  },
+  { "location": "Cancún, Mexico", "latitude": 21.1619, "longitude": -86.8515 },
+  {
+    "location": "Medellín, Colombia",
+    "latitude": 6.2476,
+    "longitude": -75.5658
+  },
+  {
+    "location": "Cartagena, Colombia",
+    "latitude": 10.3932,
+    "longitude": -75.4832
+  },
+  {
+    "location": "São Paulo, Brazil",
+    "latitude": -23.5505,
+    "longitude": -46.6333
+  },
+  {
+    "location": "Salvador, Brazil",
+    "latitude": -12.9714,
+    "longitude": -38.5014
+  },
+  {
+    "location": "Brasília, Brazil",
+    "latitude": -15.7975,
+    "longitude": -47.8919
+  },
+  {
+    "location": "Fortaleza, Brazil",
+    "latitude": -3.7319,
+    "longitude": -38.5267
+  },
+  { "location": "Recife, Brazil", "latitude": -8.0476, "longitude": -34.877 },
+  {
+    "location": "Porto Alegre, Brazil",
+    "latitude": -30.0346,
+    "longitude": -51.2177
+  },
+  {
+    "location": "Mendoza, Argentina",
+    "latitude": -32.8895,
+    "longitude": -68.8458
+  },
+  {
+    "location": "Córdoba, Argentina",
+    "latitude": -31.4201,
+    "longitude": -64.1888
+  },
+  {
+    "location": "Valparaíso, Chile",
+    "latitude": -33.0472,
+    "longitude": -71.6127
+  },
+  {
+    "location": "Punta Arenas, Chile",
+    "latitude": -53.1638,
+    "longitude": -70.9171
+  },
+  { "location": "Cuzco, Peru", "latitude": -13.5319, "longitude": -71.9675 },
+  {
+    "location": "Guayaquil, Ecuador",
+    "latitude": -2.1962,
+    "longitude": -79.8862
+  },
+  { "location": "Manchester, UK", "latitude": 53.4808, "longitude": -2.2426 },
+  { "location": "Birmingham, UK", "latitude": 52.4862, "longitude": -1.8904 },
+  { "location": "Edinburgh, UK", "latitude": 55.9533, "longitude": -3.1883 },
+  { "location": "Glasgow, UK", "latitude": 55.8642, "longitude": -4.2518 },
+  { "location": "Dublin, Ireland", "latitude": 53.3498, "longitude": -6.2603 },
+  { "location": "Cork, Ireland", "latitude": 51.8985, "longitude": -8.4756 },
+  { "location": "Marseille, France", "latitude": 43.2965, "longitude": 5.3698 },
+  { "location": "Lyon, France", "latitude": 45.764, "longitude": 4.8357 },
+  { "location": "Nice, France", "latitude": 43.7102, "longitude": 7.262 },
+  { "location": "Bordeaux, France", "latitude": 44.8378, "longitude": -0.5792 },
+  { "location": "Hamburg, Germany", "latitude": 53.5511, "longitude": 9.9937 },
+  { "location": "Munich, Germany", "latitude": 48.1351, "longitude": 11.582 },
+  { "location": "Cologne, Germany", "latitude": 50.9375, "longitude": 6.9603 },
+  {
+    "location": "Frankfurt, Germany",
+    "latitude": 50.1109,
+    "longitude": 8.6821
+  },
+  { "location": "Milan, Italy", "latitude": 45.4642, "longitude": 9.19 },
+  { "location": "Naples, Italy", "latitude": 40.8518, "longitude": 14.2681 },
+  { "location": "Florence, Italy", "latitude": 43.7696, "longitude": 11.2558 },
+  { "location": "Venice, Italy", "latitude": 45.4408, "longitude": 12.3155 },
+  { "location": "Barcelona, Spain", "latitude": 41.3851, "longitude": 2.1734 },
+  { "location": "Seville, Spain", "latitude": 37.3891, "longitude": -5.9845 },
+  { "location": "Valencia, Spain", "latitude": 39.4699, "longitude": -0.3763 },
+  { "location": "Málaga, Spain", "latitude": 36.7213, "longitude": -4.4214 },
+  { "location": "Porto, Portugal", "latitude": 41.1579, "longitude": -8.6291 },
+  { "location": "Faro, Portugal", "latitude": 37.0193, "longitude": -7.9304 },
+  { "location": "Granada, Spain", "latitude": 37.1773, "longitude": -3.5986 },
+  {
+    "location": "Geneva, Switzerland",
+    "latitude": 46.2044,
+    "longitude": 6.1432
+  },
+  {
+    "location": "Basel, Switzerland",
+    "latitude": 47.5596,
+    "longitude": 7.5886
+  },
+  { "location": "Bern, Switzerland", "latitude": 46.948, "longitude": 7.4474 },
+  {
+    "location": "Gothenburg, Sweden",
+    "latitude": 57.7089,
+    "longitude": 11.9746
+  },
+  { "location": "Malmö, Sweden", "latitude": 55.605, "longitude": 13.0038 },
+  { "location": "Bergen, Norway", "latitude": 60.3913, "longitude": 5.3221 },
+  {
+    "location": "Trondheim, Norway",
+    "latitude": 63.4305,
+    "longitude": 10.3951
+  },
+  { "location": "Tampere, Finland", "latitude": 61.4978, "longitude": 23.761 },
+  { "location": "Turku, Finland", "latitude": 60.4518, "longitude": 22.2666 },
+  { "location": "Aarhus, Denmark", "latitude": 56.1629, "longitude": 10.2039 },
+  { "location": "Aalborg, Denmark", "latitude": 57.0488, "longitude": 9.9217 },
+  {
+    "location": "Rotterdam, Netherlands",
+    "latitude": 51.9244,
+    "longitude": 4.4777
+  },
+  {
+    "location": "Utrecht, Netherlands",
+    "latitude": 52.0907,
+    "longitude": 5.1214
+  },
+  {
+    "location": "The Hague, Netherlands",
+    "latitude": 52.0705,
+    "longitude": 4.3007
+  },
+  {
+    "location": "Eindhoven, Netherlands",
+    "latitude": 51.4416,
+    "longitude": 5.4697
+  },
+  { "location": "Antwerp, Belgium", "latitude": 51.2194, "longitude": 4.4025 },
+  { "location": "Ghent, Belgium", "latitude": 51.0543, "longitude": 3.7174 },
+  { "location": "Bruges, Belgium", "latitude": 51.2093, "longitude": 3.2247 },
+  { "location": "Liège, Belgium", "latitude": 50.6326, "longitude": 5.5797 },
+  { "location": "Cork, Ireland", "latitude": 51.8985, "longitude": -8.4756 },
+  { "location": "Galway, Ireland", "latitude": 53.2707, "longitude": -9.0568 },
+  { "location": "Belfast, UK", "latitude": 54.5973, "longitude": -5.9301 },
+  { "location": "Cardiff, UK", "latitude": 51.4816, "longitude": -3.1791 },
+  { "location": "Liverpool, UK", "latitude": 53.4084, "longitude": -2.9916 },
+  { "location": "Newcastle, UK", "latitude": 54.9783, "longitude": -1.6178 },
+  { "location": "Krakow, Poland", "latitude": 50.0647, "longitude": 19.945 },
+  { "location": "Gdansk, Poland", "latitude": 54.352, "longitude": 18.6466 },
+  { "location": "Wroclaw, Poland", "latitude": 51.1079, "longitude": 17.0385 },
+  { "location": "Poznan, Poland", "latitude": 52.4064, "longitude": 16.9252 },
+  {
+    "location": "Brno, Czech Republic",
+    "latitude": 49.1951,
+    "longitude": 16.6068
+  },
+  {
+    "location": "Ostrava, Czech Republic",
+    "latitude": 49.8209,
+    "longitude": 18.2625
+  },
+  { "location": "Graz, Austria", "latitude": 47.0707, "longitude": 15.4395 },
+  { "location": "Salzburg, Austria", "latitude": 47.8095, "longitude": 13.055 },
+  {
+    "location": "Innsbruck, Austria",
+    "latitude": 47.2692,
+    "longitude": 11.4041
+  },
+  {
+    "location": "Cluj-Napoca, Romania",
+    "latitude": 46.7712,
+    "longitude": 23.6236
+  },
+  {
+    "location": "Timisoara, Romania",
+    "latitude": 45.7489,
+    "longitude": 21.2087
+  },
+  { "location": "Iasi, Romania", "latitude": 47.1585, "longitude": 27.6014 },
+  {
+    "location": "Constanta, Romania",
+    "latitude": 44.1598,
+    "longitude": 28.6348
+  },
+  { "location": "Varna, Bulgaria", "latitude": 43.2141, "longitude": 27.9147 },
+  {
+    "location": "Plovdiv, Bulgaria",
+    "latitude": 42.1354,
+    "longitude": 24.7453
+  },
+  { "location": "Burgas, Bulgaria", "latitude": 42.5048, "longitude": 27.4626 },
+  {
+    "location": "Thessaloniki, Greece",
+    "latitude": 40.6401,
+    "longitude": 22.9444
+  },
+  { "location": "Patras, Greece", "latitude": 38.2466, "longitude": 21.7345 },
+  {
+    "location": "Heraklion, Greece",
+    "latitude": 35.3387,
+    "longitude": 25.1442
+  },
+  { "location": "Rhodes, Greece", "latitude": 36.4344, "longitude": 28.2176 },
+  { "location": "Split, Croatia", "latitude": 43.5081, "longitude": 16.4402 },
+  { "location": "Rijeka, Croatia", "latitude": 45.3271, "longitude": 14.4422 },
+  {
+    "location": "Dubrovnik, Croatia",
+    "latitude": 42.6507,
+    "longitude": 18.0944
+  },
+  {
+    "location": "Kotor, Montenegro",
+    "latitude": 42.4246,
+    "longitude": 18.7712
+  },
+  {
+    "location": "Mostar, Bosnia and Herzegovina",
+    "latitude": 43.3438,
+    "longitude": 17.8078
+  },
+  {
+    "location": "Banja Luka, Bosnia and Herzegovina",
+    "latitude": 44.7721,
+    "longitude": 17.1914
+  },
+  { "location": "Novi Sad, Serbia", "latitude": 45.2671, "longitude": 19.8335 },
+  { "location": "Nis, Serbia", "latitude": 43.3209, "longitude": 21.8958 },
+  {
+    "location": "Ohrid, North Macedonia",
+    "latitude": 41.1231,
+    "longitude": 20.8016
+  },
+  {
+    "location": "Bitola, North Macedonia",
+    "latitude": 41.0297,
+    "longitude": 21.3292
+  },
+  { "location": "Durres, Albania", "latitude": 41.3256, "longitude": 19.4521 },
+  { "location": "Vlore, Albania", "latitude": 40.4664, "longitude": 19.4913 },
+  { "location": "Kosice, Slovakia", "latitude": 48.7164, "longitude": 21.2611 },
+  { "location": "Odessa, Ukraine", "latitude": 46.4825, "longitude": 30.7233 },
+  { "location": "Lviv, Ukraine", "latitude": 49.8397, "longitude": 24.0297 },
+  { "location": "Kharkiv, Ukraine", "latitude": 49.9935, "longitude": 36.2304 },
+  { "location": "Dnipro, Ukraine", "latitude": 48.4647, "longitude": 35.0462 },
+  {
+    "location": "St. Petersburg, Russia",
+    "latitude": 59.9343,
+    "longitude": 30.3351
+  },
+  { "location": "Kazan, Russia", "latitude": 55.7887, "longitude": 49.1221 },
+  { "location": "Sochi, Russia", "latitude": 43.6028, "longitude": 39.7342 },
+  {
+    "location": "Novosibirsk, Russia",
+    "latitude": 55.0084,
+    "longitude": 82.9357
+  },
+  {
+    "location": "Yekaterinburg, Russia",
+    "latitude": 56.8389,
+    "longitude": 60.6057
+  },
+  {
+    "location": "Vladivostok, Russia",
+    "latitude": 43.1332,
+    "longitude": 131.9113
+  },
+  { "location": "Irkutsk, Russia", "latitude": 52.2878, "longitude": 104.305 },
+  { "location": "Chennai, India", "latitude": 13.0827, "longitude": 80.2707 },
+  { "location": "Kolkata, India", "latitude": 22.5726, "longitude": 88.3639 },
+  { "location": "Bangalore, India", "latitude": 12.9716, "longitude": 77.5946 },
+  { "location": "Hyderabad, India", "latitude": 17.385, "longitude": 78.4867 },
+  { "location": "Ahmedabad, India", "latitude": 23.0225, "longitude": 72.5714 },
+  { "location": "Pune, India", "latitude": 18.5204, "longitude": 73.8567 },
+  { "location": "Jaipur, India", "latitude": 26.9124, "longitude": 75.7873 },
+  { "location": "Lucknow, India", "latitude": 26.8467, "longitude": 80.9462 },
+  {
+    "location": "Karachi, Pakistan",
+    "latitude": 24.8607,
+    "longitude": 67.0011
+  },
+  { "location": "Lahore, Pakistan", "latitude": 31.5204, "longitude": 74.3587 },
+  {
+    "location": "Peshawar, Pakistan",
+    "latitude": 34.0151,
+    "longitude": 71.5249
+  },
+  {
+    "location": "Faisalabad, Pakistan",
+    "latitude": 31.4504,
+    "longitude": 73.135
+  },
+  {
+    "location": "Almaty, Kazakhstan",
+    "latitude": 43.222,
+    "longitude": 76.8512
+  },
+  {
+    "location": "Bishkek, Kyrgyzstan",
+    "latitude": 42.8746,
+    "longitude": 74.5698
+  },
+  {
+    "location": "Tashkent, Uzbekistan",
+    "latitude": 41.2995,
+    "longitude": 69.2401
+  },
+  {
+    "location": "Dushanbe, Tajikistan",
+    "latitude": 38.5598,
+    "longitude": 68.787
+  },
+  {
+    "location": "Ashgabat, Turkmenistan",
+    "latitude": 37.9601,
+    "longitude": 58.3269
+  },
+  { "location": "Baku, Azerbaijan", "latitude": 40.4093, "longitude": 49.8671 },
+  { "location": "Tbilisi, Georgia", "latitude": 41.7151, "longitude": 44.8271 },
+  { "location": "Yerevan, Armenia", "latitude": 40.1792, "longitude": 44.4991 },
+  { "location": "Shanghai, China", "latitude": 31.2304, "longitude": 121.4737 },
+  {
+    "location": "Guangzhou, China",
+    "latitude": 23.1291,
+    "longitude": 113.2644
+  },
+  { "location": "Shenzhen, China", "latitude": 22.5431, "longitude": 114.0579 },
+  { "location": "Chengdu, China", "latitude": 30.5728, "longitude": 104.0668 },
+  { "location": "Wuhan, China", "latitude": 30.5928, "longitude": 114.3055 },
+  { "location": "Tianjin, China", "latitude": 39.3434, "longitude": 117.3616 },
+  { "location": "Xi'an, China", "latitude": 34.3416, "longitude": 108.9398 },
+  {
+    "location": "Chongqing, China",
+    "latitude": 29.4316,
+    "longitude": 106.9123
+  },
+  { "location": "Hangzhou, China", "latitude": 30.2742, "longitude": 120.1551 },
+  { "location": "Nanjing, China", "latitude": 32.0603, "longitude": 118.7969 },
+  { "location": "Shenyang, China", "latitude": 41.8057, "longitude": 123.4315 },
+  { "location": "Dalian, China", "latitude": 38.914, "longitude": 121.6147 },
+  { "location": "Harbin, China", "latitude": 45.8038, "longitude": 126.535 },
+  {
+    "location": "Hong Kong, China",
+    "latitude": 22.3193,
+    "longitude": 114.1694
+  },
+  { "location": "Macau, China", "latitude": 22.1987, "longitude": 113.5439 },
+  { "location": "Taipei, Taiwan", "latitude": 25.033, "longitude": 121.5654 },
+  {
+    "location": "Kaohsiung, Taiwan",
+    "latitude": 22.6273,
+    "longitude": 120.3014
+  },
+  {
+    "location": "Taichung, Taiwan",
+    "latitude": 24.1477,
+    "longitude": 120.6736
+  },
+  {
+    "location": "Busan, South Korea",
+    "latitude": 35.1796,
+    "longitude": 129.0756
+  },
+  {
+    "location": "Incheon, South Korea",
+    "latitude": 37.4563,
+    "longitude": 126.7052
+  },
+  {
+    "location": "Daegu, South Korea",
+    "latitude": 35.8714,
+    "longitude": 128.6014
+  },
+  {
+    "location": "Daejeon, South Korea",
+    "latitude": 36.3504,
+    "longitude": 127.3845
+  },
+  { "location": "Osaka, Japan", "latitude": 34.6937, "longitude": 135.5023 },
+  { "location": "Yokohama, Japan", "latitude": 35.4437, "longitude": 139.638 },
+  { "location": "Kyoto, Japan", "latitude": 35.0116, "longitude": 135.7681 },
+  { "location": "Sapporo, Japan", "latitude": 43.0618, "longitude": 141.3545 },
+  { "location": "Nagoya, Japan", "latitude": 35.1815, "longitude": 136.9066 },
+  { "location": "Fukuoka, Japan", "latitude": 33.5902, "longitude": 130.4017 },
+  { "location": "Naha, Japan", "latitude": 26.2124, "longitude": 127.6809 },
+  { "location": "Sendai, Japan", "latitude": 38.2682, "longitude": 140.8694 },
+  { "location": "Kobe, Japan", "latitude": 34.6901, "longitude": 135.1955 },
+  {
+    "location": "Hiroshima, Japan",
+    "latitude": 34.3853,
+    "longitude": 132.4553
+  },
+  {
+    "location": "Ho Chi Minh City, Vietnam",
+    "latitude": 10.8231,
+    "longitude": 106.6297
+  },
+  {
+    "location": "Da Nang, Vietnam",
+    "latitude": 16.0544,
+    "longitude": 108.2022
+  },
+  { "location": "Hue, Vietnam", "latitude": 16.4637, "longitude": 107.5909 },
+  {
+    "location": "Nha Trang, Vietnam",
+    "latitude": 12.2388,
+    "longitude": 109.1967
+  },
+  {
+    "location": "Chiang Mai, Thailand",
+    "latitude": 18.7883,
+    "longitude": 98.9853
+  },
+  { "location": "Phuket, Thailand", "latitude": 7.9519, "longitude": 98.3381 },
+  {
+    "location": "Pattaya, Thailand",
+    "latitude": 12.9236,
+    "longitude": 100.8825
+  },
+  { "location": "Krabi, Thailand", "latitude": 8.0862, "longitude": 98.9063 },
+  {
+    "location": "Luang Prabang, Laos",
+    "latitude": 19.8867,
+    "longitude": 102.1346
+  },
+  { "location": "Vang Vieng, Laos", "latitude": 18.9235, "longitude": 102.448 },
+  {
+    "location": "Siem Reap, Cambodia",
+    "latitude": 13.3633,
+    "longitude": 103.8564
+  },
+  {
+    "location": "Sihanoukville, Cambodia",
+    "latitude": 10.6297,
+    "longitude": 103.5228
+  },
+  {
+    "location": "Mandalay, Myanmar",
+    "latitude": 21.9588,
+    "longitude": 96.0891
+  },
+  { "location": "Bagan, Myanmar", "latitude": 21.1717, "longitude": 94.8585 },
+  {
+    "location": "Inle Lake, Myanmar",
+    "latitude": 20.5503,
+    "longitude": 96.9156
+  },
+  { "location": "Penang, Malaysia", "latitude": 5.4141, "longitude": 100.3292 },
+  {
+    "location": "Johor Bahru, Malaysia",
+    "latitude": 1.4927,
+    "longitude": 103.7414
+  },
+  {
+    "location": "Kota Kinabalu, Malaysia",
+    "latitude": 5.9804,
+    "longitude": 116.0735
+  },
+  {
+    "location": "Kuching, Malaysia",
+    "latitude": 1.5533,
+    "longitude": 110.3593
+  },
+  {
+    "location": "Bandar Seri Begawan, Brunei",
+    "latitude": 4.9031,
+    "longitude": 114.9398
+  },
+  {
+    "location": "Surabaya, Indonesia",
+    "latitude": -7.2575,
+    "longitude": 112.7521
+  },
+  {
+    "location": "Yogyakarta, Indonesia",
+    "latitude": -7.7971,
+    "longitude": 110.3688
+  },
+  {
+    "location": "Bandung, Indonesia",
+    "latitude": -6.9175,
+    "longitude": 107.6191
+  },
+  { "location": "Bali, Indonesia", "latitude": -8.3405, "longitude": 115.092 },
+  {
+    "location": "Makassar, Indonesia",
+    "latitude": -5.1477,
+    "longitude": 119.4327
+  },
+  {
+    "location": "Davao, Philippines",
+    "latitude": 7.1907,
+    "longitude": 125.4553
+  },
+  {
+    "location": "Cebu, Philippines",
+    "latitude": 10.3157,
+    "longitude": 123.8854
+  },
+  {
+    "location": "Boracay, Philippines",
+    "latitude": 11.9804,
+    "longitude": 121.9189
+  },
+  {
+    "location": "Palawan, Philippines",
+    "latitude": 10.1976,
+    "longitude": 118.8889
+  },
+  {
+    "location": "Wellington, New Zealand",
+    "latitude": -41.2865,
+    "longitude": 174.7762
+  },
+  {
+    "location": "Christchurch, New Zealand",
+    "latitude": -43.532,
+    "longitude": 172.6362
+  },
+  {
+    "location": "Queenstown, New Zealand",
+    "latitude": -45.0312,
+    "longitude": 168.6626
+  },
+  {
+    "location": "Rotorua, New Zealand",
+    "latitude": -38.1368,
+    "longitude": 176.2497
+  },
+  {
+    "location": "Melbourne, Australia",
+    "latitude": -37.8136,
+    "longitude": 144.9631
+  },
+  {
+    "location": "Brisbane, Australia",
+    "latitude": -27.4698,
+    "longitude": 153.0251
+  },
+  {
+    "location": "Perth, Australia",
+    "latitude": -31.9505,
+    "longitude": 115.8605
+  },
+  {
+    "location": "Adelaide, Australia",
+    "latitude": -34.9285,
+    "longitude": 138.6007
+  },
+  {
+    "location": "Gold Coast, Australia",
+    "latitude": -28.0167,
+    "longitude": 153.4
+  },
+  {
+    "location": "Cairns, Australia",
+    "latitude": -16.9186,
+    "longitude": 145.7781
+  },
+  {
+    "location": "Darwin, Australia",
+    "latitude": -12.4634,
+    "longitude": 130.8456
+  },
+  {
+    "location": "Hobart, Australia",
+    "latitude": -42.8821,
+    "longitude": 147.3272
+  },
+  {
+    "location": "Uluru, Australia",
+    "latitude": -25.3444,
+    "longitude": 131.0369
+  },
+  { "location": "Suva, Fiji", "latitude": -18.1416, "longitude": 178.4419 },
+  { "location": "Nadi, Fiji", "latitude": -17.7765, "longitude": 177.4356 },
+  { "location": "Apia, Samoa", "latitude": -13.8506, "longitude": -171.7513 },
+  {
+    "location": "Nuku'alofa, Tonga",
+    "latitude": -21.1394,
+    "longitude": -175.2046
+  },
+  {
+    "location": "Noumea, New Caledonia",
+    "latitude": -22.2758,
+    "longitude": 166.4581
+  },
+  {
+    "location": "Port Vila, Vanuatu",
+    "latitude": -17.7334,
+    "longitude": 168.322
+  },
+  {
+    "location": "Honiara, Solomon Islands",
+    "latitude": -9.4456,
+    "longitude": 159.9728
+  },
+  {
+    "location": "Port Moresby, Papua New Guinea",
+    "latitude": -9.4438,
+    "longitude": 147.1803
+  },
+  {
+    "location": "Papeete, French Polynesia",
+    "latitude": -17.5516,
+    "longitude": -149.5584
+  },
+  {
+    "location": "Bora Bora, French Polynesia",
+    "latitude": -16.5004,
+    "longitude": -151.7415
+  },
+  {
+    "location": "Rarotonga, Cook Islands",
+    "latitude": -21.2367,
+    "longitude": -159.7777
+  },
+  { "location": "Tarawa, Kiribati", "latitude": 1.329, "longitude": 172.979 },
+  {
+    "location": "Majuro, Marshall Islands",
+    "latitude": 7.1164,
+    "longitude": 171.1858
+  },
+  {
+    "location": "Palikir, Micronesia",
+    "latitude": 6.9248,
+    "longitude": 158.1618
+  },
+  { "location": "Hagåtña, Guam", "latitude": 13.4763, "longitude": 144.7502 },
+  {
+    "location": "Saipan, Northern Mariana Islands",
+    "latitude": 15.1889,
+    "longitude": 145.7566
+  },
+  { "location": "Koror, Palau", "latitude": 7.342, "longitude": 134.4777 },
+  {
+    "location": "Funafuti, Tuvalu",
+    "latitude": -8.5211,
+    "longitude": 179.1961
+  },
+  {
+    "location": "Easter Island, Chile",
+    "latitude": -27.1127,
+    "longitude": -109.3497
+  },
+  {
+    "location": "Ushuaia, Argentina",
+    "latitude": -54.8019,
+    "longitude": -68.303
+  },
+  {
+    "location": "El Calafate, Argentina",
+    "latitude": -50.3383,
+    "longitude": -72.2759
+  },
+  {
+    "location": "Bariloche, Argentina",
+    "latitude": -41.1335,
+    "longitude": -71.3103
+  },
+  {
+    "location": "Puerto Montt, Chile",
+    "latitude": -41.4693,
+    "longitude": -72.94
+  },
+  {
+    "location": "Concepción, Chile",
+    "latitude": -36.8201,
+    "longitude": -73.044
+  },
+  {
+    "location": "Antofagasta, Chile",
+    "latitude": -23.6523,
+    "longitude": -70.3954
+  },
+  {
+    "location": "San Pedro de Atacama, Chile",
+    "latitude": -22.9087,
+    "longitude": -68.1997
+  },
+  {
+    "location": "La Serena, Chile",
+    "latitude": -29.9027,
+    "longitude": -71.2524
+  },
+  { "location": "Arequipa, Peru", "latitude": -16.409, "longitude": -71.5375 },
+  { "location": "Iquitos, Peru", "latitude": -3.7489, "longitude": -73.2538 },
+  {
+    "location": "Lake Titicaca, Peru/Bolivia",
+    "latitude": -15.8362,
+    "longitude": -69.5331
+  },
+  { "location": "Uyuni, Bolivia", "latitude": -20.4597, "longitude": -66.8262 },
+  {
+    "location": "Santa Cruz, Bolivia",
+    "latitude": -17.8146,
+    "longitude": -63.1561
+  },
+  { "location": "Cuenca, Ecuador", "latitude": -2.9001, "longitude": -79.0059 },
+  {
+    "location": "Galápagos Islands, Ecuador",
+    "latitude": -0.3829,
+    "longitude": -91.1252
+  },
+  {
+    "location": "Cartagena, Colombia",
+    "latitude": 10.3932,
+    "longitude": -75.4832
+  },
+  { "location": "Cali, Colombia", "latitude": 3.4516, "longitude": -76.532 },
+  {
+    "location": "Medellín, Colombia",
+    "latitude": 6.2476,
+    "longitude": -75.5658
+  },
+  { "location": "Manaus, Brazil", "latitude": -3.119, "longitude": -60.0217 },
+  {
+    "location": "Salvador, Brazil",
+    "latitude": -12.9714,
+    "longitude": -38.5014
+  },
+  {
+    "location": "Florianópolis, Brazil",
+    "latitude": -27.5954,
+    "longitude": -48.548
+  },
+  { "location": "Natal, Brazil", "latitude": -5.7945, "longitude": -35.211 },
+  {
+    "location": "Fortaleza, Brazil",
+    "latitude": -3.7319,
+    "longitude": -38.5267
+  },
+  { "location": "Belém, Brazil", "latitude": -1.4558, "longitude": -48.4902 },
+  {
+    "location": "Foz do Iguaçu, Brazil",
+    "latitude": -25.5478,
+    "longitude": -54.5882
+  },
+  {
+    "location": "Asunción, Paraguay",
+    "latitude": -25.2637,
+    "longitude": -57.5759
+  },
+  {
+    "location": "Ciudad del Este, Paraguay",
+    "latitude": -25.507,
+    "longitude": -54.6667
+  },
+  {
+    "location": "Montevideo, Uruguay",
+    "latitude": -34.9011,
+    "longitude": -56.1645
+  },
+  {
+    "location": "Punta del Este, Uruguay",
+    "latitude": -34.9368,
+    "longitude": -54.9338
+  },
+  {
+    "location": "Colonia del Sacramento, Uruguay",
+    "latitude": -34.4626,
+    "longitude": -57.84
+  },
+  {
+    "location": "Georgetown, Guyana",
+    "latitude": 6.8013,
+    "longitude": -58.1551
+  },
+  {
+    "location": "Paramaribo, Suriname",
+    "latitude": 5.852,
+    "longitude": -55.2038
+  },
+  {
+    "location": "Cayenne, French Guiana",
+    "latitude": 4.9227,
+    "longitude": -52.3269
+  },
+  {
+    "location": "Panama City, Panama",
+    "latitude": 8.9824,
+    "longitude": -79.5199
+  },
+  { "location": "Boquete, Panama", "latitude": 8.7792, "longitude": -82.4308 },
+  {
+    "location": "San José, Costa Rica",
+    "latitude": 9.9281,
+    "longitude": -84.0907
+  },
+  {
+    "location": "Monteverde, Costa Rica",
+    "latitude": 10.3156,
+    "longitude": -84.8266
+  },
+  {
+    "location": "Manuel Antonio, Costa Rica",
+    "latitude": 9.392,
+    "longitude": -84.1368
+  },
+  {
+    "location": "Arenal Volcano, Costa Rica",
+    "latitude": 10.4626,
+    "longitude": -84.7034
+  },
+  {
+    "location": "Managua, Nicaragua",
+    "latitude": 12.1149,
+    "longitude": -86.2362
+  },
+  {
+    "location": "Granada, Nicaragua",
+    "latitude": 11.9299,
+    "longitude": -85.956
+  },
+  { "location": "León, Nicaragua", "latitude": 12.435, "longitude": -86.8806 },
+  {
+    "location": "Tegucigalpa, Honduras",
+    "latitude": 14.0723,
+    "longitude": -87.1921
+  },
+  { "location": "Roatán, Honduras", "latitude": 16.33, "longitude": -86.53 },
+  {
+    "location": "San Pedro Sula, Honduras",
+    "latitude": 15.5049,
+    "longitude": -88.0255
+  },
+  {
+    "location": "San Salvador, El Salvador",
+    "latitude": 13.6929,
+    "longitude": -89.2182
+  },
+  {
+    "location": "Antigua, Guatemala",
+    "latitude": 14.5572,
+    "longitude": -90.7331
+  },
+  {
+    "location": "Lake Atitlán, Guatemala",
+    "latitude": 14.6909,
+    "longitude": -91.273
+  },
+  { "location": "Tikal, Guatemala", "latitude": 17.222, "longitude": -89.6237 },
+  {
+    "location": "Belize City, Belize",
+    "latitude": 17.4941,
+    "longitude": -88.1863
+  },
+  {
+    "location": "San Ignacio, Belize",
+    "latitude": 17.159,
+    "longitude": -89.0696
+  },
+  {
+    "location": "Ambergris Caye, Belize",
+    "latitude": 17.992,
+    "longitude": -87.9426
+  },
+  { "location": "Merida, Mexico", "latitude": 20.9674, "longitude": -89.5926 },
+  {
+    "location": "Chichen Itza, Mexico",
+    "latitude": 20.6828,
+    "longitude": -88.5686
+  },
+  { "location": "Tulum, Mexico", "latitude": 20.2114, "longitude": -87.4654 },
+  {
+    "location": "Playa del Carmen, Mexico",
+    "latitude": 20.6296,
+    "longitude": -87.0739
+  },
+  { "location": "Oaxaca, Mexico", "latitude": 17.0732, "longitude": -96.7266 },
+  {
+    "location": "Puerto Vallarta, Mexico",
+    "latitude": 20.6534,
+    "longitude": -105.2253
+  },
+  {
+    "location": "Cabo San Lucas, Mexico",
+    "latitude": 22.8909,
+    "longitude": -109.9124
+  },
+  {
+    "location": "Acapulco, Mexico",
+    "latitude": 16.8531,
+    "longitude": -99.8237
+  },
+  {
+    "location": "San Miguel de Allende, Mexico",
+    "latitude": 20.9144,
+    "longitude": -100.7452
+  },
+  {
+    "location": "Puerto Rico, USA",
+    "latitude": 18.2208,
+    "longitude": -66.5901
+  },
+  {
+    "location": "St. Thomas, US Virgin Islands",
+    "latitude": 18.3381,
+    "longitude": -64.8941
+  },
+  {
+    "location": "St. John, US Virgin Islands",
+    "latitude": 18.3308,
+    "longitude": -64.7311
+  },
+  {
+    "location": "St. Croix, US Virgin Islands",
+    "latitude": 17.7359,
+    "longitude": -64.7457
+  },
+  {
+    "location": "Grand Cayman, Cayman Islands",
+    "latitude": 19.3222,
+    "longitude": -81.2409
+  },
+  { "location": "Nassau, Bahamas", "latitude": 25.0443, "longitude": -77.3503 },
+  { "location": "Freeport, Bahamas", "latitude": 26.5333, "longitude": -78.7 },
+  { "location": "Havana, Cuba", "latitude": 23.1136, "longitude": -82.3666 },
+  { "location": "Varadero, Cuba", "latitude": 23.1539, "longitude": -81.2515 },
+  {
+    "location": "Montego Bay, Jamaica",
+    "latitude": 18.4731,
+    "longitude": -77.9184
+  },
+  { "location": "Ocho Rios, Jamaica", "latitude": 18.4167, "longitude": -77.1 },
+  { "location": "Negril, Jamaica", "latitude": 18.2697, "longitude": -78.3555 },
+  {
+    "location": "Punta Cana, Dominican Republic",
+    "latitude": 18.5818,
+    "longitude": -68.4055
+  },
+  {
+    "location": "Santo Domingo, Dominican Republic",
+    "latitude": 18.4861,
+    "longitude": -69.9312
+  },
+  {
+    "location": "Port-au-Prince, Haiti",
+    "latitude": 18.5944,
+    "longitude": -72.3074
+  },
+  {
+    "location": "Philipsburg, St. Maarten",
+    "latitude": 18.0237,
+    "longitude": -63.0458
+  },
+  {
+    "location": "Gustavia, St. Barthelemy",
+    "latitude": 17.8962,
+    "longitude": -62.8505
+  },
+  {
+    "location": "Saint John's, Antigua and Barbuda",
+    "latitude": 17.1274,
+    "longitude": -61.8468
+  },
+  {
+    "location": "Roseau, Dominica",
+    "latitude": 15.3098,
+    "longitude": -61.3793
+  },
+  {
+    "location": "Fort-de-France, Martinique",
+    "latitude": 14.6104,
+    "longitude": -61.0704
+  },
+  {
+    "location": "Pointe-à-Pitre, Guadeloupe",
+    "latitude": 16.2406,
+    "longitude": -61.533
+  },
+  {
+    "location": "Castries, Saint Lucia",
+    "latitude": 14.0101,
+    "longitude": -60.9971
+  },
+  {
+    "location": "Kingstown, Saint Vincent and the Grenadines",
+    "latitude": 13.1609,
+    "longitude": -61.2246
+  },
+  {
+    "location": "St. George's, Grenada",
+    "latitude": 12.056,
+    "longitude": -61.7488
+  },
+  {
+    "location": "Bridgetown, Barbados",
+    "latitude": 13.1132,
+    "longitude": -59.5988
+  },
+  {
+    "location": "Port of Spain, Trinidad and Tobago",
+    "latitude": 10.655,
+    "longitude": -61.5018
+  }
+]
