@@ -1,12 +1,12 @@
-# 🚚 Cargo Web Application
+# Cargo Web Application
 
 A full-stack web application for **cargo management and real-time tracking**, featuring a modern frontend interface and robust backend API services.
 
-> 🔗 **Repository:** [Cargo-Webapp](https://github.com/soumyadiprashpur/Cargo-Webapp.git)
+ **Repository:** [Cargo-Webapp](https://github.com/soumyadiprashpur/Cargo-Webapp.git)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Cargo-Webapp/
@@ -17,7 +17,7 @@ Cargo-Webapp/
 
 ---
 
-## 🚀 Features
+## Features
 
 - Real-time cargo tracking and status updates  
 - Modern, responsive web UI  
@@ -26,7 +26,7 @@ Cargo-Webapp/
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, React, Vite  
 - **Backend:** Node.js, Express  
@@ -34,11 +34,11 @@ Cargo-Webapp/
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 Follow these steps to run the project locally:
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/soumyadiprashpur/Cargo-Webapp.git
@@ -47,9 +47,9 @@ cd Cargo-Webapp
 
 ---
 
-## 🌐 Frontend Setup (`CARGO-WEBAPP`)
+## Frontend Setup (`CARGO-WEBAPP`)
 
-### ▶️ Start the Frontend Server
+### Start the Frontend Server
 
 ```bash
 cd CARGO-WEBAPP
@@ -63,9 +63,9 @@ npm run dev
 
 ---
 
-## 🔙 Backend Setup (`CARGO-BACKEND`)
+## Backend Setup (`CARGO-BACKEND`)
 
-### ▶️ Start the Backend Server
+### Start the Backend Server
 
 ```bash
 cd CARGO-BACKEND
